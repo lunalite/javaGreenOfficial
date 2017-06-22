@@ -1,0 +1,4 @@
+app/*.csv
+*.class
+build/
+ipadd
